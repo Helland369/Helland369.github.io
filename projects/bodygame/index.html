@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Body Game </title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+
+  <div id="cards">
+    <div class="card">
+      <div class="green Header" onclick="toolsShow()">
+        Verktøy
+      </div>
+      <div id="cardTools"></div>
+    </div>
+  <div id="cards">
+    <div class="card">
+      <div class="purple Header" onclick="emacsShow()">
+        Emacs
+      </div>
+      <div id="cardEmacs"></div>
+    </div>
+    <div class="card">
+      <div class="blue Header" onclick="htmlShow()">
+        HTML
+      </div>
+      <div id="cardHtml"></div>
+    </div>
+    <div class="card">
+      <div class="red Header" onclick="cssShow()">
+        CSS
+      </div>
+      <div id="cardCss"></div>
+    </div>
+    <div class="card">
+      <div class="yellow Header" onclick="jsShow()">
+        JavaScript
+      </div>
+      <div id="cardJS"></div>
+    </div>
+    <div class="card">
+      <div class="dark Header" onclick="bodyGame()">
+        Hode, kropp og ben
+      </div>
+      <div id="cardGame" class="bodies"> </div>
+    </div>
+  </div>
+
+</body>
+</html>
