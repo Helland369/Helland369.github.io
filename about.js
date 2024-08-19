@@ -43,6 +43,7 @@ function showEmacs() {
     <li>Søke etter filer er også en av de mage tingene Emacs kan gjøre.</li>
     <li>Kan ikke glemme det viktigste som selvfølgelig er den inne bygde tetris klonen.</li>
     <li>Det er mye mere Emacs kan gjøre mer, men jeg trur jeg har nevnt de mest vanlige.</li>
+    <a href="https://www.gnu.org/software/emacs/" target="_blank">For mere info om Emacs</a>
     </ul>
     </div>
 `;
