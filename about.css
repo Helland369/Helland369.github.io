@@ -1,0 +1,107 @@
+
+body {
+  margin: 0px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+header {
+  text-align: center;
+  background-color: #222222;
+  padding: 26px;
+  color: #fbf8ff;
+}
+
+.navBar ul {
+  list-style-type: none;
+  background-color: #333333;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+.navBar a {
+  color: #fbf8ff;
+  text-decoration: none;
+  padding: 16px;
+  display: block;
+  text-align: center;
+}
+
+.navBar a:hover {
+  background-color: #222222;
+}
+
+.navBar li {
+  float: left;
+}
+
+main {
+  margin: opx;
+}
+
+.intro {
+  display: grid;
+  place-items: center;
+}
+
+.arch {
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 33px; 
+  width: 600px;
+  margin: 0 auto;
+  padding: 33px;
+}
+
+.innerArch {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.emacs {
+  background-color: purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 33px; 
+  width: 600px;
+  margin: 0 auto;
+  padding: 33px;
+}
+
+.innerEmacs {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.emacsImg {
+  width: 300px;
+  height: 300px;
+}
+
+.tuxImg {
+  display: grid;
+  place-items: center;
+}
+
+.tux {
+  width: 50%;
+}
+footer {
+  display: block;
+  clear: both;
+  color: #fbf8ff;
+  background-color: #222222;
+  text-align: center;
+  padding: 26px;
+}
