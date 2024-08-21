@@ -1,0 +1,98 @@
+a {
+  text-decoration: none;
+}
+
+h2 {
+  color: grey;
+  font-size: 33px;
+}
+
+#pLink {
+  color: grey;
+  font-size: 23px;
+}
+
+body {
+  margin: 0px;
+}
+
+header {
+  text-align: center;
+  background-color: #222222;
+  padding: 26px;
+  color: #fbf8ff;
+}
+
+.navBar ul {
+  list-style-type: none;
+  background-color: #333333;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+.navBar a {
+  color: #fbf8ff;
+  text-decoration: none;
+  padding: 16px;
+  display: block;
+  text-align: center;
+}
+
+.navBar a:hover {
+  background-color: #222222;
+}
+
+.navBar li {
+  float: left;
+}
+
+footer {
+  display: block;
+  clear: both;
+  color: #fbf8ff;
+  background-color: #222222;
+  text-align: center;
+  padding: 26px;
+}
+
+main {
+  margin: opx;
+}
+
+.projectList {
+  width: 100%;
+  height: 300px;
+  display: block;
+  background-color: #0A1172;
+  text-align: center;
+  padding-top: 1px;
+}
+
+.div2 {
+  width: 100%;
+  height: 300px;
+  display: block;
+  background-color: #051094;
+  text-align: center;
+  padding-top: 1px;
+}
+
+.div3 {
+  width: 100%;
+  height: 300px;
+  display: block;
+  background-color: #0A1172;
+  text-align: center;
+  padding-top: 1px;
+}
+
+.div4 {
+  width: 100%;
+  height: 300px;
+  display: block;
+  background-color: #051094;
+  text-align: center;
+  padding-top: 1px;
+}
+
