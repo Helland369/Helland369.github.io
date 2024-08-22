@@ -1,0 +1,31 @@
+.blueStyle {
+  background-color: blue;
+  padding: 33px;
+  height: 100px;
+  width: 100px;
+  color: blue;
+}
+
+.greenStyle {
+  background-color: Green;
+  padding: 33px;
+  height: 100px;
+  width: 100px;
+  color: green;
+}
+
+.yellowStyle {
+  background-color: yellow;
+  padding: 33px;
+  height: 100px;
+  width: 100px;
+  color: yellow;
+}
+
+.purpleStyle {
+  background-color: purple;
+  padding: 33px;
+  height: 100px;
+  width: 100px;
+  color: purple;
+}
