@@ -1,0 +1,22 @@
+
+
+
+#light {
+  background-color: grey;
+  color: grey;
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  top: 0;
+  margin: auto;
+  /* to align the icon */
+  /*text-align: center; */
+  /*line-height: 120px; */
+}
+
+.btn {
+  padding: 625px 900px;
+}

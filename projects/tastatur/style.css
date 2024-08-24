@@ -1,0 +1,39 @@
+body {
+  background-color: #222222;
+}
+
+.row {
+  padding-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#display {
+  color: white;
+  font-size: 100px;
+  padding-top: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background-color: blue;
+  padding: 16px 33px;
+}
