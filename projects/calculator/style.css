@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+#claculator {
+    /*padding-top: 250px;*/
+    display: grid;
+    place-items: center;
+}
+
+#display {
+    background-color: #222222;
+    color: white;
+    height: 100px;
+    width: 600px;
+    font-size: 3rem;
+}
+
+#btn {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+button {
+    height: 150px;
+    width: 150px;
+    font-size: 3rem;
+    background-color: #222222;
+    color: white;
+}
